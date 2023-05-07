@@ -8,8 +8,10 @@ pip install -r requirements.txt
 
 #### Step2 - Run code
 
-#### Step3
-- generate final_result.csv file
+- Run Python_code.py file
+
+#### Step3 - Output the final result
+- Py file will generate final_result.csv file
 
 
 
