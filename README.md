@@ -1,1 +1,6 @@
-##### work related phrases that I learned from my coworkers
+##### set up enviroment
+
+```SQL
+pip install -r requirements.txt
+```
+
