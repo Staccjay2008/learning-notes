@@ -1,4 +1,4 @@
-#### Set up environment
+#### Step1 - Set up environment
 - Run the pip install in your Python IDE
 
 ```SQL
